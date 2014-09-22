@@ -895,4 +895,8 @@ li.lang {
   .sponsor a.outer {
     width: 99.98%;
   }
+  .taco-style{
+    color:blue;
+    display:none;
+  }
 }
